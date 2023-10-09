@@ -16,7 +16,7 @@
                     </div>
                     <div class="col-lg-7">
                         <div class="hc-banner-img">
-                            <img src="assets/images/BENETH.png" alt="image">
+                            <img src="assets/images/BENETH.webp" alt="image">
                         </div>
                     </div>
                 </div>
@@ -109,7 +109,7 @@
                     <div class="col-lg-5 offset-lg-1">
                         <div class="hc-about-img">
                             <div class="hc-image-style">
-                                <img src="assets/images/about.png" alt="about">
+                                <img src="assets/images/about.webp" alt="about">
                             </div>
                         </div>
                     </div>
@@ -152,7 +152,7 @@
                             <h1 class="hc-heading">Get in touch</h1>
                         </div>
                         <div class="hc-map-box">
-                            <img src="assets/images/about.png" alt="map">
+                            <img src="assets/images/about.webp" alt="map">
                             
                         </div>
                     </div>

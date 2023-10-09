@@ -11,11 +11,17 @@ use Illuminate\Http\RedirectResponse;
 
 class HomeController extends Controller
 {
+    protected $data = [];
+
+    public function __construct(){
+        $this->data['site_name']='Beneth';
+    }
     public function index(): View {
 
-        $project = Project::all();
+        $this->data['project'] = Project::all();
 
-        return view("home");
+        $this->data['emails']= Email::all();
+        return view("home",$this->data);
     }
 
 
