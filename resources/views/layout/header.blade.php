@@ -50,7 +50,7 @@
                 <div class="row">
                     <div class="col-md-3 col-sm-6">
                         <div class="hc-logo">
-                            <a href="index.html">
+                            <a href="#about">
                                 <!-- <img src="assets/images/beneth.jpeg" alt="logo"> -->
                                 <h1>BENETH</h1>
                             </a>
@@ -76,7 +76,7 @@
                                             <a href="#contact">contact us</a>
                                         </li>
                                         <li>
-                                            <a href="#blog">blog</a>
+                                            <a href="#blog">project</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -86,7 +86,7 @@
                                     <span></span>
                                 </div>
                             </div>
-                            <div class="hc-head-btn">
+                            <div class="#contact">
                                 <button class="hc-btn" data-toggle="modal" data-target="#hc-appointment">Contact Us</button>
                             </div>
                         </div>

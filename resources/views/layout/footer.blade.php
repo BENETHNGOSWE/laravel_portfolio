@@ -3,7 +3,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="hc-footer-logo">
-                          <a href="index.html">
+                          <a href="https://wa.me/255710459064?text=Hello!%20I%20would%20like%20to%20send%20a%20message." target="_blank">
                             <h1 <span style="color:aliceblue">BENETH</h1>
                             <!-- <img src="assets/images/hc-logo-white.svg" alt="logo"> -->
                         </a>
@@ -14,7 +14,7 @@
                             <li>
                                 <div class="hc-foot-contact-box">
                                     <h2>Office Address</h2>
-                                    <p>Kinondoni Vijana - Mafere Street</p>
+                                    <p>Mabibo-Dar-es-salaam</p>
                                  </div>
                             </li>
                             <li>
@@ -35,19 +35,29 @@
                         <div class="hc-footer-links">
                             <ul>
                                 <li>
-                                    <a href="javascript:;">Web design</a>
+                                    <a href="https://wa.me/255710459064?text=Hello!%20I%20would%20like%20to%20send%20a%20message." target="_blank">Web design</a>
                                 </li>
                                 <li>
-                                    <a href="javascript:;">Software development</a>
+                                    <a href="https://wa.me/255710459064?text=Hello!%20I%20would%20like%20to%20send%20a%20message." target="_blank">SEO Specialist</a>
                                 </li>
                                 <li>
-                                    <a href="javascript:;">Graphics designer</a>
+                                    <a href="https://wa.me/255710459064?text=Hello!%20I%20would%20like%20to%20send%20a%20message." target="_blank">Website Management</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="hc-footer-links">
+                        <ul>
+                                
+                                <li>
+                                    <a href="https://wa.me/255710459064?text=Hello!%20I%20would%20like%20to%20send%20a%20message." target="_blank">Software Development</a>
                                 </li>
                                 <li>
-                                    <a href="javascript:;">Web Management and Control</a>
+                                    <a href="https://wa.me/255710459064?text=Hello!%20I%20would%20like%20to%20send%20a%20message." target="_blank">Graphics Design</a>
                                 </li>
                                 <li>
-                                    <a href="javascript:;">SEO Specialist</a>
+                                    <a href="https://wa.me/255710459064?text=Hello!%20I%20would%20like%20to%20send%20a%20message." target="_blank">Motion Design</a>
                                 </li>
                             </ul>
                         </div>
@@ -56,20 +66,15 @@
                         <div class="hc-footer-links">
                         <ul>
                                 <li>
-                                    <a href="javascript:;">Web design</a>
+                                    <a href="https://wa.me/255710459064?text=Hello!%20I%20would%20like%20to%20send%20a%20message." target="_blank">Google Profile Design</a>
                                 </li>
                                 <li>
-                                    <a href="javascript:;">Software development</a>
-                                </li>
+                                    <a href="https://wa.me/255710459064?text=Hello!%20I%20would%20like%20to%20send%20a%20message." target="_blank">Google Location Addition</a>
+                                </li>                                
                                 <li>
-                                    <a href="javascript:;">Graphics designer</a>
+                                    <a href="https://wa.me/255710459064?text=Hello!%20I%20would%20like%20to%20send%20a%20message." target="_blank">Google Reviews Management</a>
                                 </li>
-                                <li>
-                                    <a href="javascript:;">Web Management and Control</a>
-                                </li>
-                                <li>
-                                    <a href="javascript:;">SEO Specialist</a>
-                                </li>
+                               
                             </ul>
                         </div>
                     </div>
@@ -77,41 +82,15 @@
                         <div class="hc-footer-links">
                         <ul>
                                 <li>
-                                    <a href="javascript:;">Web design</a>
+                                    <a href="https://wa.me/255710459064?text=Hello!%20I%20would%20like%20to%20send%20a%20message." target="_blank">IT Consultation </a>
                                 </li>
                                 <li>
-                                    <a href="javascript:;">Software development</a>
+                                    <a href="{{ route('login')}}" target="_blank">Developer Mode</a>
                                 </li>
-                                <li>
+                                {{-- <li>
                                     <a href="javascript:;">Graphics designer</a>
-                                </li>
-                                <li>
-                                    <a href="javascript:;">Web Management and Control</a>
-                                </li>
-                                <li>
-                                    <a href="javascript:;">SEO Specialist</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6">
-                        <div class="hc-footer-links">
-                        <ul>
-                                <li>
-                                    <a href="javascript:;">Web design</a>
-                                </li>
-                                <li>
-                                    <a href="javascript:;">Software development</a>
-                                </li>
-                                <li>
-                                    <a href="javascript:;">Graphics designer</a>
-                                </li>
-                                <li>
-                                    <a href="javascript:;">Web Management and Control</a>
-                                </li>
-                                <li>
-                                    <a href="javascript:;">SEO Specialist</a>
-                                </li>
+                                </li> --}}
+                               
                             </ul>
                         </div>
                     </div>
@@ -125,7 +104,7 @@
                 <div class="row">                
                     <div class="col-lg-12">
                         <div class="hc-copyright-box">
-                            <p>Copyright © 2023 Beneth Emmanuel. All Right Reserved.</p>
+                            <p>Copyright © 2024-25 Beneth Emmanuel. All Right Reserved.</p>
                         </div>
                     </div>
                 </div>

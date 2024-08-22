@@ -51,7 +51,7 @@
                             <div class="hc-service-icon">
                                 <img src="assets/images/app.png" alt="service">
                             </div>
-                            <h1 class="hc-service-title">App Solution</h1>
+                            <h1 class="hc-service-title">Mobile Apps Solution</h1>
                             <!-- <p>Aenean facilisis sodales est neciMorbi vitapurus on convallis commodo velante</p> -->
                             <a href="javascript:;" class="hc-service-arrow">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 493.356 493.356">
@@ -85,7 +85,7 @@
                             <div class="hc-service-icon hc-service-ico-clr3">
                                 <img src="assets/images/seo.jpg" alt="service">
                             </div>
-                            <h1 class="hc-service-title">SEO</h1>
+                            <h1 class="hc-service-title">Website SEO</h1>
                             <!-- <p>Aenean facilisis sodales est neciMorbi vitapurus on convallis commodo velante</p> -->
                             <a href="javascript:;" class="hc-service-arrow">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 493.356 493.356">
@@ -134,7 +134,7 @@
                                 </div>
                                 
                             </div>
-                            <img src="assets/images/hc-signature.png" alt="signature">
+                            {{-- <img src="assets/images/hc-signature.png" alt="signature"> --}}
                         </div>
                     </div>
                 </div>
@@ -186,8 +186,8 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="hc-heading-wrap text-center">
-                            <h2 class="hc-sub-heading">Blog Posts</h2>
-                            <h1 class="hc-heading">Latest Update</h1>
+                            <h2 class="hc-sub-heading">Project</h2>
+                            <h1 class="hc-heading">Latest Project</h1>
                         </div>
                     </div>
                     @foreach ( $project as $proj )
@@ -198,20 +198,20 @@
                                         <a href="javascript:;"><img src="{{ asset('images/' . $proj->image) }}" alt="project"></a>
                                     </div>
                                     <div class="hc-blog-data">
-                                        <a href="javascript:;">
+                                        <a href="{{ $proj->projectlink }}" target="_blank">
                                             <h1 class="hc-blog-title">{{ $proj->projectname}}</h1>
                                         </a><br>
                                         <div class="hc-blog-head">
                                             
                                             <ul class="hc-blog-social">
                                                 <li>
-                                                    <a href="javacript:;"><i class="fab fa-facebook-f"></i></a>
+                                                    <a href="https://www.instagram.com/benethemmanuel/" target="_blank"><i class="fab fa-facebook-f"></i></a>
                                                 </li>
                                                 <li>
-                                                    <a href="javacript:;"><i class="fab fa-twitter"></i></a>
+                                                    <a href="https://www.linkedin.com/in/beneth-emmanuel-54a05b217/" target="_blank"><i class="fab fa-linkedin"></i></a>
                                                 </li>
                                                 <li>
-                                                    <a href="javacript:;"><i class="fab fa-instagram"></i></a>
+                                                    <a href="https://www.instagram.com/benethemmanuel/" target="_blank"><i class="fab fa-instagram"></i></a>
                                                 </li>
                                             </ul>
                                         </div>
